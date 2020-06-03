@@ -1,7 +1,7 @@
 ### Polls
 This is the django app - Polls . It contains two modules,
-     *polls
-     *Admin
+    * Polls
+    * Admin
 
 In polls module, user can
       *  Choose the question which they want to answer 
